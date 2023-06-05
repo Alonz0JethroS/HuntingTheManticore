@@ -1,0 +1,17 @@
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\bin\Debug\net6.0-windows\BetterWindowsForm.exe
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\bin\Debug\net6.0-windows\BetterWindowsForm.deps.json
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\bin\Debug\net6.0-windows\BetterWindowsForm.runtimeconfig.json
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\bin\Debug\net6.0-windows\BetterWindowsForm.dll
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\bin\Debug\net6.0-windows\BetterWindowsForm.pdb
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\obj\Debug\net6.0-windows\BetterWindowsForm.csproj.AssemblyReference.cache
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\obj\Debug\net6.0-windows\BetterWindowsForm.MainForm.resources
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\obj\Debug\net6.0-windows\BetterWindowsForm.csproj.GenerateResource.cache
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\obj\Debug\net6.0-windows\BetterWindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\obj\Debug\net6.0-windows\BetterWindowsForm.AssemblyInfoInputs.cache
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\obj\Debug\net6.0-windows\BetterWindowsForm.AssemblyInfo.cs
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\obj\Debug\net6.0-windows\BetterWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\obj\Debug\net6.0-windows\BetterWindowsForm.dll
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\obj\Debug\net6.0-windows\refint\BetterWindowsForm.dll
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\obj\Debug\net6.0-windows\BetterWindowsForm.pdb
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\obj\Debug\net6.0-windows\BetterWindowsForm.genruntimeconfig.cache
+C:\Users\JUNEL\source\repos\WinFormsDemo\BetterWindowsForm\obj\Debug\net6.0-windows\ref\BetterWindowsForm.dll

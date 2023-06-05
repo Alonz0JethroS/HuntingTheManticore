@@ -1,0 +1,17 @@
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\bin\Debug\net6.0-windows\PracticeGUI.exe
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\bin\Debug\net6.0-windows\PracticeGUI.deps.json
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\bin\Debug\net6.0-windows\PracticeGUI.runtimeconfig.json
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\bin\Debug\net6.0-windows\PracticeGUI.dll
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\bin\Debug\net6.0-windows\PracticeGUI.pdb
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\obj\Debug\net6.0-windows\PracticeGUI.csproj.AssemblyReference.cache
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\obj\Debug\net6.0-windows\PracticeGUI.Main.resources
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\obj\Debug\net6.0-windows\PracticeGUI.csproj.GenerateResource.cache
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\obj\Debug\net6.0-windows\PracticeGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\obj\Debug\net6.0-windows\PracticeGUI.AssemblyInfoInputs.cache
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\obj\Debug\net6.0-windows\PracticeGUI.AssemblyInfo.cs
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\obj\Debug\net6.0-windows\PracticeGUI.csproj.CoreCompileInputs.cache
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\obj\Debug\net6.0-windows\PracticeGUI.dll
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\obj\Debug\net6.0-windows\refint\PracticeGUI.dll
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\obj\Debug\net6.0-windows\PracticeGUI.pdb
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\obj\Debug\net6.0-windows\PracticeGUI.genruntimeconfig.cache
+C:\Users\JUNEL\source\repos\PracticeGUI\PracticeGUI\obj\Debug\net6.0-windows\ref\PracticeGUI.dll
